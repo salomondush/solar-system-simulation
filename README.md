@@ -1,6 +1,8 @@
 # Math 2420: Earth and Mars Orbital Motion Final Project
 ## Salomon Dushimirimana
 
+- Here's a link to and online [hosted version of this project](https://639563845eaefb00086544e3--majestic-truffle-6c2111.netlify.app/)
+
 Credit: Special thanks to Intiser Rajoan Parash for working with me on the technical details of the project.
 
 ### Introduction

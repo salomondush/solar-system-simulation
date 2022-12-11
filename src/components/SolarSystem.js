@@ -1,7 +1,7 @@
 import React from "react";
 import Planet from "./Planet";
 import "./SolarSystem.css";
-import { FormGroup, Stack, FormLabel, FormControlLabel, Switch, Slider, IconButton } from "@mui/material";
+import { Stack, FormLabel, Slider, IconButton } from "@mui/material";
 
 import RestartAltIcon from '@mui/icons-material/RestartAlt';
 
